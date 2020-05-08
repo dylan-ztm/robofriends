@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+    background: linear-gradient(to left, rgba(7,27,82,1) 0%, rgba(0,128,128,1) 100%);
+ /* My customized color is listed in comments below. */
+ /* background: linear-gradient(to right, rgba(48, 128, 207,1) 0%, rgba(66, 189, 128,1) 100%); */
 }
 
 code {
