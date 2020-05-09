@@ -15,7 +15,7 @@ class App extends Component { //Component is from React.Component.  see "import 
     } //end of constructor()
 
     componentDidMount() {
-        fetch('http://jsonplaceholder.typicode.com/users')
+        fetch('https://jsonplaceholder.typicode.com/users')
             .then(response => response.json())
             .then(users => this.setState({robots: users}));
         } //end of componentDidMount
