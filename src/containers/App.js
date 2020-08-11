@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 import CardList from '../components/CardList';
 import SearchBox from '../components/SearchBox';
 import Scroll from '../components/Scroll';
-//import ErrorBoundry from '../components/ErrorBoundry'; *Not being used*
+//import ErrorBoundry from '../components/ErrorBoundry'; **Not being used**
 import './App.css';
 
 //State Management section
