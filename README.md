@@ -1,8 +1,8 @@
-To run:
+To run:<br />
 
-Clone this repo
-Run npm install
-Run npm start
+Clone this repo<br />
+Run npm install<br />
+Run npm start<br />
 
 ## Available Scripts
 
